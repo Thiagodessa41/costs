@@ -21,6 +21,17 @@
       "cost": 0,
       "services": [],
       "id": 7
+    },
+    {
+      "name": "Projeto dentista",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
     }
   ],
   "categories": [
