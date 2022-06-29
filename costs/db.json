@@ -1,37 +1,22 @@
 {
   "projects": [
     {
-      "name": "teste 3 ",
-      "budget": "4500",
+      "name": "Farmacia ",
+      "budget": "12000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
+      }
+      
     },
     {
-      "name": "Sistema Padaria",
-      "budget": "15000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "name": "Projeto dentista",
-      "budget": "5000",
+      "name": "Supermercado",
+      "budget": "30000",
       "category": {
         "id": "1",
         "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 8
+      }
+      
     }
   ],
   "categories": [
